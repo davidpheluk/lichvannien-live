@@ -1,26 +1,26 @@
 {
   "app": {
-    "versionCode": 3,
-    "versionName": "1.2",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.2/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.2"
+    "versionCode": 4,
+    "versionName": "1.3",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.3/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.3"
   },
   "engine": {
-    "version": 5,
+    "version": 6,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-5.js",
-    "size": 71676,
-    "sha256": "7c4001c920a557d58deb190895f44f9bdee73dfe9872f82340d4b5a02cce2345",
-    "sig": "MEQCIEvM6wedFWiS1E6B4FVCkockNSlp48wsIpwZ6NJ/IE2PAiACgUU1tkztP/CTCSysOWkgVgmSzlkTcY772pgaY2e9+Q=="
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-6.js",
+    "size": 71662,
+    "sha256": "a1c2e605f9ad9d52f1c053b26180429e37c2a90ac3cbdf262ee33e5a6fb7bd6d",
+    "sig": "MEUCIGRNAMVezB2s+b2Bb1hzFA21b9xz+51QEHR9KmcGVVPKAiEA4SuOGqH4vSrHxDREkIxY32Kxy1h2JkYiI7zmDJ7A2Pw="
   },
   "rules": {
-    "version": 4,
+    "version": 5,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-4.json",
-    "size": 16503,
-    "sha256": "3385900c3b6edae2f0c5c48c9ec7bcccf4bced25518591ab7f1f8b64cba58519",
-    "sig": "MEYCIQDHAMwH3O/E7K6PGCf8EjqKzDzltHSpm9Sc25qHXzYXCAIhAIaXAEbqnoYqpv4T6rbts/CdBwzAUW/qoGRO08qhXMtl",
-    "name": "2026.10.3"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-5.json",
+    "size": 17119,
+    "sha256": "970095d8df0c74ea9bf2dc6c90a8b92096a4c41652e7d9fb79581aff04efb4e9",
+    "sig": "MEUCIAHAWilBxHTfvUXTbgHder/pglyzo5Z56tLUpilvZqHvAiEAnUwcLepuFjUXOpATIzuMC9O5WPWXuSMXsBS2JriC4yE=",
+    "name": "2026.10.4"
   },
-  "builtAt": "2026-10-13T08:25:38.459Z"
+  "builtAt": "2026-10-13T09:09:47.453Z"
 }
