@@ -1,26 +1,26 @@
 {
   "app": {
-    "versionCode": 4,
-    "versionName": "1.3",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.3/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.3"
+    "versionCode": 5,
+    "versionName": "1.4",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.4/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.4"
   },
   "engine": {
-    "version": 6,
+    "version": 7,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-6.js",
-    "size": 71662,
-    "sha256": "a1c2e605f9ad9d52f1c053b26180429e37c2a90ac3cbdf262ee33e5a6fb7bd6d",
-    "sig": "MEUCIGRNAMVezB2s+b2Bb1hzFA21b9xz+51QEHR9KmcGVVPKAiEA4SuOGqH4vSrHxDREkIxY32Kxy1h2JkYiI7zmDJ7A2Pw="
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-7.js",
+    "size": 75356,
+    "sha256": "32a97782d310aa928e47fc6feaae787d27206deed1281910b70566721ed9fcce",
+    "sig": "MEQCICqiliBO+RIkgbgcoIdkCBzRlvWUuOHQlLGalND0K4PPAiA8j4eOEZIV/8AN6ePtNC82QrxNOKyRLS4cJdJ6mzOoKQ=="
   },
   "rules": {
-    "version": 5,
+    "version": 6,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-5.json",
-    "size": 17119,
-    "sha256": "970095d8df0c74ea9bf2dc6c90a8b92096a4c41652e7d9fb79581aff04efb4e9",
-    "sig": "MEUCIAHAWilBxHTfvUXTbgHder/pglyzo5Z56tLUpilvZqHvAiEAnUwcLepuFjUXOpATIzuMC9O5WPWXuSMXsBS2JriC4yE=",
-    "name": "2026.10.4"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-6.json",
+    "size": 20496,
+    "sha256": "01f4a39a0e366b1d4f21ad72d7a6e1ade911ccab0b722fc2c174b853a2307cd3",
+    "sig": "MEMCICyD4y8gY2riGsyQN6lj4KTq95WIDCKTyh5WFA4M1RbfAh9vXREiaiRSnuEFjLogwTB0suTLvW/LiQckAIWZvCjN",
+    "name": "2026.10.5"
   },
-  "builtAt": "2026-10-13T09:09:47.453Z"
+  "builtAt": "2026-10-13T09:45:08.187Z"
 }
