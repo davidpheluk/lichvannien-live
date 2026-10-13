@@ -1,26 +1,26 @@
 {
   "app": {
-    "versionCode": 10,
-    "versionName": "1.4.5",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.4.5/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.4.5"
+    "versionCode": 11,
+    "versionName": "1.4.6",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.4.6/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.4.6"
   },
   "engine": {
-    "version": 7,
+    "version": 8,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-7.js",
-    "size": 75356,
-    "sha256": "32a97782d310aa928e47fc6feaae787d27206deed1281910b70566721ed9fcce",
-    "sig": "MEUCIQDswzo4NXvQYq0gWbifARE7bOxdarFldMMrSoqaFip9zAIgAyNm9DftgNB0bNHk0coz96HHtOov3Ld1v98i+B67fQY="
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-8.js",
+    "size": 86853,
+    "sha256": "a446d633025f96040affa2f6ef3cb8430276fcf919bd61c1afb8557ccbccce8b",
+    "sig": "MEQCID0HN+dDGEiXXDbBsGuAoL1Q9uk70szCPTSBMt7kDyvLAiBlUf8eJQgMUc++3L5fjior3YxNrkjFFtGwOUz9ipHL9Q=="
   },
   "rules": {
-    "version": 6,
+    "version": 7,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-6.json",
-    "size": 20496,
-    "sha256": "01f4a39a0e366b1d4f21ad72d7a6e1ade911ccab0b722fc2c174b853a2307cd3",
-    "sig": "MEQCIFeG9iKCgzGPUL4k3kzkSz3hnxCNvKfDsCfWVzeZvK+eAiAKMkjtIm1u7LussRd5Q7SbcCiC9HyHbRzKMTIzzOsPxQ==",
-    "name": "2026.10.5"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-7.json",
+    "size": 20508,
+    "sha256": "475a068987de4dfb29efc703d2b739a97fc51c111d2974181a51dd443cf5cce1",
+    "sig": "MEQCIBByfKaf5sUSfyqjuk7hpa+Avre9CJJ1lgv6zeijl2IJAiABqFPzWaV0BTtDrErOuxIi/U1KU5PxX++c+5IC2QczxA==",
+    "name": "2026.10.6"
   },
-  "builtAt": "2026-10-13T14:39:25.309Z"
+  "builtAt": "2026-10-13T15:08:33.571Z"
 }
