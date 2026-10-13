@@ -1,26 +1,26 @@
 {
   "app": {
-    "versionCode": 1,
-    "versionName": "1.0",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.0/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.0"
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.1/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.1"
   },
   "engine": {
-    "version": 1,
+    "version": 2,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-1.js",
-    "size": 67103,
-    "sha256": "daefe8ffcf3622e4ff0823e52b8e78e2cc54634c65dbc30bf666bf31843fab07",
-    "sig": "MEYCIQDKI7jDGgmnIJkFklauBNUmCs2tw8/VgPd/x1/SLEb7pQIhAOA4lxeGUXsY9QSBwqh13a46l8CcNLrKoyOk1wmR0faC"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-2.js",
+    "size": 69033,
+    "sha256": "bf753ca5ca1ebf0b94da2d017159a785dad1511dd9d4d508ace4b0cbb4e2e495",
+    "sig": "MEQCIQDbO5ED6Bhsgci5w9Su5PTJGaQDF3kW4oNCztkcoZfJqgIfVF8FNRnG7iBgsVP91KBZdv4Dg3aLIIN65gC4N9IL5g=="
   },
   "rules": {
-    "version": 1,
+    "version": 2,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-1.json",
-    "size": 5950,
-    "sha256": "7686880dbb8f44750289102c41c8a10b5d9f7962a8e18b0cb66f6ab83494939f",
-    "sig": "MEYCIQDY/nTjqGUAVrtoWuChyXDZi/AIWIb5617DTHLlGMmmaAIhAJPHw3KAQ6n7wLoUdnRh00MeiBe18VvcSCpBBrxhQghv",
-    "name": "2026.10.1"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-2.json",
+    "size": 5990,
+    "sha256": "1ecc5cf38f1f567fdc649a2b91b5f09f6e296d0970164b14afafcd9e57b45c4c",
+    "sig": "MEUCIASym5K8MuuHu192NU2m0SfQzS0zE/4SGBN2g2aZK9YbAiEAuUemBxxWvQg31HQ+qvXQhuj7UCYJ+6v7dO106IjpeuE=",
+    "name": "2026.10.2"
   },
-  "builtAt": "2026-10-13T06:05:20.551Z"
+  "builtAt": "2026-10-13T06:50:42.324Z"
 }
