@@ -1,26 +1,26 @@
 {
   "app": {
-    "versionCode": 2,
-    "versionName": "1.1",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.1/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.1"
+    "versionCode": 3,
+    "versionName": "1.2",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.2/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.2"
   },
   "engine": {
-    "version": 3,
+    "version": 5,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-3.js",
-    "size": 69153,
-    "sha256": "283613a1c4480bc3973e2eac5145e9132b5a1aea5158f1d5cf9a1fafd85a8cb0",
-    "sig": "MEYCIQCIK7t8Ze4/f9YPEKhSQMqM88IngA+8ccfni9IWudz0ogIhALw7Vu+iYRIJ6PfIThgWeVeYQjvhYO3rnYzkcS63ywMM"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-5.js",
+    "size": 71676,
+    "sha256": "7c4001c920a557d58deb190895f44f9bdee73dfe9872f82340d4b5a02cce2345",
+    "sig": "MEQCIEvM6wedFWiS1E6B4FVCkockNSlp48wsIpwZ6NJ/IE2PAiACgUU1tkztP/CTCSysOWkgVgmSzlkTcY772pgaY2e9+Q=="
   },
   "rules": {
-    "version": 2,
+    "version": 4,
     "minAppVersion": 1,
-    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-2.json",
-    "size": 5990,
-    "sha256": "1ecc5cf38f1f567fdc649a2b91b5f09f6e296d0970164b14afafcd9e57b45c4c",
-    "sig": "MEUCIEFYYm65SsXfTl6PPy3V6nYW49vyPj7/qK4qLWwhhaHkAiEA33dbtblOSUR/QB13OM2uDJu9g7eBgsxBjEzo/uBoLJw=",
-    "name": "2026.10.2"
+    "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-4.json",
+    "size": 16503,
+    "sha256": "3385900c3b6edae2f0c5c48c9ec7bcccf4bced25518591ab7f1f8b64cba58519",
+    "sig": "MEYCIQDHAMwH3O/E7K6PGCf8EjqKzDzltHSpm9Sc25qHXzYXCAIhAIaXAEbqnoYqpv4T6rbts/CdBwzAUW/qoGRO08qhXMtl",
+    "name": "2026.10.3"
   },
-  "builtAt": "2026-10-13T06:57:56.613Z"
+  "builtAt": "2026-10-13T08:25:38.459Z"
 }
