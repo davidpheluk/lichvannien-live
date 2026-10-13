@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 16,
-    "versionName": "1.4.11",
-    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.4.11/LichVN-4G.apk",
-    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.4.11"
+    "versionCode": 17,
+    "versionName": "1.4.12",
+    "apk": "https://github.com/davidpheluk/lichvannien-live/releases/download/v1.4.12/LichVN-4G.apk",
+    "page": "https://github.com/davidpheluk/lichvannien-live/releases/tag/v1.4.12"
   },
   "engine": {
     "version": 8,
@@ -11,7 +11,7 @@
     "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-8.js",
     "size": 86853,
     "sha256": "a446d633025f96040affa2f6ef3cb8430276fcf919bd61c1afb8557ccbccce8b",
-    "sig": "MEUCIH5G32EARCjTwe1QvfaWaRAu6vc2QyQXkjSasiV7Pte4AiEAnRH59Rmjv3ME8q6c3b9+YAaVYEK2f8E4GjONAErZ/y0="
+    "sig": "MEUCIQCHv+FF4HaOnHp8/QpZr9zHrnQ2GzyyN+BDQkOYMMPOJgIgUEX2LY4GtzdoQMFkHXbv7CKKEu61IUgooYXrqcteGIY="
   },
   "rules": {
     "version": 7,
@@ -19,8 +19,8 @@
     "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-7.json",
     "size": 20508,
     "sha256": "475a068987de4dfb29efc703d2b739a97fc51c111d2974181a51dd443cf5cce1",
-    "sig": "MEQCIF0iCrzI9Kt+FlJDF327hjKOB8e8b3mPtPWNajcBZTcKAiAGPfNEnRFxJNVlcpHu/ECgUVRSSzYfywpsm8PsoqkHMQ==",
+    "sig": "MEQCIGq7OmbOfUHmhytP66y18H8zECpquSeTNsKSfeqy7Ov5AiBHu5DFz1zrwgATcZwg2YXpYbVkrCk5DNt08F6yTSkRuA==",
     "name": "2026.10.6"
   },
-  "builtAt": "2026-10-13T18:02:13.996Z"
+  "builtAt": "2026-10-13T18:11:17.478Z"
 }
