@@ -11,7 +11,7 @@
     "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/engine/engine-8.js",
     "size": 86853,
     "sha256": "a446d633025f96040affa2f6ef3cb8430276fcf919bd61c1afb8557ccbccce8b",
-    "sig": "MEUCIQDrHzDwYjaNw8ySZq60O+xMz7TmfiQN5O0StPewZlnLAgIgAdQh/VvTkBYa9J3hgv/pQl1BwiMM/vj6QUS6SCO2wB4="
+    "sig": "MEYCIQD0x3/TPfjBHNPyVFzXpSmLnU7oqTkXJIUFqajKDXQL6gIhAKcMLNmU4Ikc/3x3VltoHIQltvCfjcfp/Nj0ElF7TFQG"
   },
   "rules": {
     "version": 7,
@@ -19,8 +19,8 @@
     "url": "https://raw.githubusercontent.com/davidpheluk/lichvannien-live/main/rules/rules-7.json",
     "size": 20508,
     "sha256": "475a068987de4dfb29efc703d2b739a97fc51c111d2974181a51dd443cf5cce1",
-    "sig": "MEQCIAbz1MfHUUOJQTDdNM71odXvsZNXzXgDQPTgE5JI9MP/AiAjJiA+P/Cm8zWM8VMPQkji6I0/k8Tx88EakY78I8/hEg==",
+    "sig": "MEYCIQDyn4j5Px/3jaJxwMGjQhpwoIe7OudUjy/OnwmkFVkScwIhAJ1kVGIG6mQvcBqfSlYFuOgurK6l9zti3ES2FIsnY04f",
     "name": "2026.10.6"
   },
-  "builtAt": "2026-10-14T02:52:11.243Z"
+  "builtAt": "2026-10-14T02:55:06.825Z"
 }
